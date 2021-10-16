@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.10.0](https://www.github.com/iamh2o/snakemake/compare/v6.9.1...v6.10.0) (2021-10-16)
+
+
+### Features
+
+* Add more informative errors when evaluation of `--default-resources` fails ([#1192](https://www.github.com/iamh2o/snakemake/issues/1192)) ([b3c4e68](https://www.github.com/iamh2o/snakemake/commit/b3c4e687c87c75075393cef842b129dcec70e7f6))
+
 ### [6.9.1](https://www.github.com/snakemake/snakemake/compare/v6.9.0...v6.9.1) (2021-09-30)
 
 
